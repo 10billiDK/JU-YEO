@@ -1,0 +1,12 @@
+name: map1
+title: map1
+username:
+account: map-page
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2399042
+bundleId: 3221176
+url: https://map-page.shinyapps.io/map1/
+when: 1591153378.29407
+asMultiple: FALSE
+asStatic: FALSE

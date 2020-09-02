@@ -26,6 +26,10 @@ graph.png, jido.png - RShiny를 이용한 양조주 위치검색 페이지나, �
 
 kivy-env.zip - 이 어플리케이션의 폰트와 테마등을 조정해 둔 환경 파일들<br>
 
+Reference_materials.pdf - 이 프로젝트 내용이 담긴 PPT<br>
+
+Proposal.docx - 이 프로젝트의 기획서이고, 전반적인 흐름, 디테일을 다 포함하고 있음<br>
+
 <h2>Data</h2><br>
 
 전통주 주류 관련 데이터 - 전통주 갤러리 사이트에서 주류 관련 정보를 크롤링함. 이는 컨텐츠 기반 추천시스템을 만드는 데 활용됐음<br>
